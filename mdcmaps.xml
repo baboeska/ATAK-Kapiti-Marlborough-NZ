@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>Marlborough Aerial</name>
+    <minZoom>0</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>jpg</tileType>
+    <url>https://gis.marlborough.govt.nz/server/rest/services/CacheWGS84/OnlineBasemapWGS84/MapServer/tile/{$z}/{$y}/{$x}</url>
+</customMapSource>

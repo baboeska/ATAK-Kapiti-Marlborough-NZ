@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>Kapiti Coast 2025 Aerial</name>
+    <minZoom>0</minZoom>
+    <maxZoom>22</maxZoom>
+    <tileType>png</tileType>
+    <url>https://basemaps.linz.govt.nz/v1/tiles/kapiti-coast-2025-0.075m/WebMercatorQuad/{$z}/{$x}/{$y}.png?api=yourapikeyhere</url>
+</customMapSource>
