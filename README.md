@@ -3,6 +3,8 @@ Note, in the event of importing property boundaries, etc, please ensure your coo
 
 This may mean NZTM coordinate format with WGS84, as google maps/bing is likely to mismatch with overlay from LINZ.
 
+You are responsible for supplying your own API key for Kapiti council smart maps.
+
 For licensing please check MDC Smart Maps, Kapiti Council Smart Maps, and Land Information New Zealand.
 My non legal understanding is fair usage allowed, non commercial only, if something goes wrong it is absolutely not anyone's problem but the end users.
 
